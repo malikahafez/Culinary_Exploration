@@ -10,8 +10,8 @@ _Level 2_
 **Level 1**<br>
 - You are a farmer.<br>
 - Collect as many ingredients as you can before the time runs out.<br>
-- Watch out for the farm animals to avoid losing lives.
-<br>**Level 2**<br>
+- Watch out for the farm animals to avoid losing lives.<br>
+**Level 2**<br>
 - You are a waiter.<br>
 - Collect as many dishes as you can before the time runs out. <br>
 - Avoid angry customers and dinner tables or you'll lose a life. <br>
