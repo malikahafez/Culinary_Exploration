@@ -36,6 +36,7 @@ _Level 2_
 - **rotate left** _j_ keyboard button
 - **rotate up** _i_ keyboard button
 - **rotate down** _k_ keyboard button
+- <br>
 **VIEWS**
 - **third person** _m_ keyboard button
 - **first person** _n_ keyboard button
