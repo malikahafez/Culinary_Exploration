@@ -15,3 +15,5 @@ _Level 2_
 - You are a waiter.<br>
 - Collect as many dishes as you can before the time runs out. <br>
 - Avoid angry customers and dinner tables or you'll lose a life. <br>
+#Controls
+##Player
